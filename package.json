@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/mncole98/Tech-Blogger#readme",
   "dependencies": {
-    "bcrypt": "^5.1.0",
-    "connect-session-sequelize": "^7.1.5",
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.0.4",
     "dotenv": "^16.0.3",
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
